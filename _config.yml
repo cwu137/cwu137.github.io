@@ -23,7 +23,7 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/
+  repo:           https://github.com/cwu137
 
 plugins:
   - jekyll-paginate
