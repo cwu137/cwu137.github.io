@@ -9,7 +9,7 @@ permalink:        none
 # Setup
 title:            Chang
 tagline:          'Theoretical Particle Physics, INFN Genova'
-description:      'QCD, scattering, transverse momentum, Jet, <a>Theoretical</a>, collider, Higgs, Field Theory, shower, resummation, <a>Particle</a>, numerical, Drell-Yan,gluon, inclusive, high-order, <a>Physicist</a>, perturbative, logarithm, Monte Carlo.'
+description:      'QCD, scattering, transverse momentum, Jet, <a>Theoretical</a>, collider, Higgs, Field Theory, shower, resummation, <a>Particle</a>, numerical, Drell-Yan, gluon, inclusive, high-order, <a>Physicist</a>, perturbative, logarithm, Monte Carlo.'
 url:              http://cwu137.github.io
 baseurl:          /
 
