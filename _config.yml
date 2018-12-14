@@ -27,6 +27,7 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/cwu137
+  guide:          http://try.github.io
   research:       https://cwu137.github.io/Research/ 
 
 plugins:
